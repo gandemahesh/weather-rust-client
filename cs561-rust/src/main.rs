@@ -7,7 +7,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let client = reqwest::Client::new();
 
     let mut map = HashMap::new();
-    map.insert("username", "rajalinv");
+    map.insert("username", "mahesh");
     map.insert("password", "password");
 
     let auth_response = client
@@ -43,7 +43,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .json::<model::Weather>()
         .await?;
 
-    println!("\nWeather data collected:\n{:?}",weather);
+    println!("\nCollected data from weather:\n{:?}",weather);
 
     Ok(())
 }
