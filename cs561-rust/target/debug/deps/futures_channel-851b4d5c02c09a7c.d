@@ -1,0 +1,11 @@
+D:\SE\labs\rust\cs561-rust\target\debug\deps\futures_channel-851b4d5c02c09a7c.rmeta: C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lib.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lock.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\mod.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\queue.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\oneshot.rs
+
+D:\SE\labs\rust\cs561-rust\target\debug\deps\libfutures_channel-851b4d5c02c09a7c.rlib: C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lib.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lock.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\mod.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\queue.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\oneshot.rs
+
+D:\SE\labs\rust\cs561-rust\target\debug\deps\futures_channel-851b4d5c02c09a7c.d: C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lib.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lock.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\mod.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\queue.rs C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\oneshot.rs
+
+C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lib.rs:
+C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\lock.rs:
+C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\mod.rs:
+C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\mpsc\queue.rs:
+C:\Users\mahes\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.19\src\oneshot.rs:
